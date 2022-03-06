@@ -1,0 +1,10 @@
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Console-DDOS-Tool.exe.config
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Console-DDOS-Tool.exe
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Console-DDOS-Tool.pdb
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Leaf.xNet.dll
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Leaf.xNet.xml
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\obj\Debug\Console-DDOS-Tool.csproj.AssemblyReference.cache
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\obj\Debug\Console-DDOS-Tool.csproj.CoreCompileInputs.cache
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\obj\Debug\Console-DDOS-Tool.exe
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\obj\Debug\Console-DDOS-Tool.pdb
+C:\Users\Range\source\repos\Console-DDOS-Tool\Console-DDOS-Tool\bin\Debug\Colorful.Console.dll
